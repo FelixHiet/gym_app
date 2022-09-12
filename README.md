@@ -1,3 +1,7 @@
+#GYM APP
+![GYM](https://user-images.githubusercontent.com/49163212/189610278-310779c2-4a08-4867-869e-7855835d58cc.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
